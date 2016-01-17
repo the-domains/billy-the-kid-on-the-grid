@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The man known only as The Kid makes his debut on The Grid]]></title>
         <description><![CDATA[The man known only as The Kid makes his debut on The Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/billy-the-kid-on-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 19:01:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 19:01:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/billy-the-kid-on-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[billy the wanted]]></title>
+            <description><![CDATA[<article><h1>billy the wanted</h1><p>many people wanted billy and they were willing to pay a hefty sum for his audience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad441b43ce98166e683b4f515dda6d1c1d40db6b.png"></article>]]></description>
+            <link>https://thegrid.ai/billy-the-kid-on-the-grid/billy-the-wanted/index.html</link>
+            <guid isPermaLink="false">f4a74e85-266a-442a-b0db-b69630a08eab</guid>
+            <pubDate>Sun, 17 Jan 2016 19:01:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[emilio as billy the kid]]></title>
             <description><![CDATA[<article><h1>emilio as billy the kid</h1><p>Billy the Kid was the fastest gun in town. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dac10c57dd883b22b694871f7ae7af855e9512e.jpg"></article>]]></description>
-            <link>undefinedemilio-as-billy-the-kid/index.html</link>
+            <link>https://thegrid.ai/billy-the-kid-on-the-grid/emilio-as-billy-the-kid/index.html</link>
             <guid isPermaLink="false">09546b23-a740-45b3-962f-11bb836db9af</guid>
             <pubDate>Sun, 17 Jan 2016 19:01:54 GMT</pubDate>
         </item>
