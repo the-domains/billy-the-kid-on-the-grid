@@ -1,0 +1,29 @@
+name: Billy the Kid on the Grid
+favicon: null
+layout_spectrum: 0.0990663378033787
+typography_spectrum: 0.2792152070906013
+title: The man known only as The Kid makes his debut on The Grid
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9464750653132796
+  lightness: 0.9637611827347428
+  saturation: 0.057246721582487226
+  rhythmicContrast: 0.1369943635072559
+purpose: []
