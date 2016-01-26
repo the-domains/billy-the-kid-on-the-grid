@@ -1,7 +1,8 @@
 name: Billy the Kid on the Grid
 favicon: null
-layout_spectrum: 0.0990663378033787
-typography_spectrum: 0.2792152070906013
+layout_spectrum: 0.48621
+typography_spectrum: 0.98144
+title: Billy and The grid
 cta:
   domain: null
   bucket: null
@@ -21,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.9464750653132796
-  lightness: 0.9637611827347428
-  saturation: 0.057246721582487226
-  rhythmicContrast: 0.1369943635072559
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.9375
+  rhythmicContrast: 0.25
 purpose: []
